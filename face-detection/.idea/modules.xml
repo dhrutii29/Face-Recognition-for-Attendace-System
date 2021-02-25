@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Face_Recognition_GUI/.idea/Face_Detection_PyQt_Final.iml" filepath="$PROJECT_DIR$/../Face_Recognition_GUI/.idea/Face_Detection_PyQt_Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/face-recognition.iml" filepath="$PROJECT_DIR$/.idea/face-recognition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" />
+    </modules>
+  </component>
+</project>
