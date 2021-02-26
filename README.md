@@ -11,7 +11,15 @@ Face Encodings – This is the 128 encoding feature vector from a pretrained net
 Python 3\
 SQL
 
+
 ##Libraries
+opencv-python\
+numpy\
+face_recognition\
+datetime\
+tkinter\
+pillow\
+mysql-connector-python
 
 
 ## Conclusion
