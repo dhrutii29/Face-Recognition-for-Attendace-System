@@ -19,4 +19,4 @@ This also notes down the time of arrival thus can acquire information about
 people coming in late after a specified time.
 
 
-![Screenshot](project.png)
+![project](https://user-images.githubusercontent.com/74110370/109301033-551a2300-785d-11eb-9816-9286211f6265.PNG)
