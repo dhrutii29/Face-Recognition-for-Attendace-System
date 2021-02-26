@@ -12,7 +12,7 @@ Python 3\
 SQL
 
 
-##Libraries
+## Libraries
 opencv-python\
 numpy\
 face_recognition\
