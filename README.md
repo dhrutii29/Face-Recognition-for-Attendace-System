@@ -8,8 +8,11 @@ Face Encodings – This is the 128 encoding feature vector from a pretrained net
 
 
 ## Technology used
-Python 3,
+Python 3\
 SQL
+
+##Libraries
+
 
 ## Conclusion
 Face recognition library being a high level deep learning library helps in identifying faces accurately. 
